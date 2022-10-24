@@ -9,8 +9,8 @@ These materials are shared as Google Docs for PMM members. You will need to sign
 This session will be about exploring the data you and/or your lab has on the old (GHPCC) cluster, determining what data you have in project and nearline spaces. At least one representative from a lab will be needed. Findings should be discussed with group PI to determine which files should be transferred to the new cluster, which should be archived or deleted. Group rep and the PI should also determine who the data belongs to or who should be responsible for managing it. Responsible persons should attend the following sessions on D-Meta and AWS.  
 #### [D-Meta Database Usage, 2 November 2022](2022/11/dmeta.md)
 In this session we are going to learn about metadata entries to D-Meta database with optional AWS archiving.
-### Archiving Data From Cluster to AWS
+#### [Archiving Data From Cluster to AWS](2022/11/aws.md)
 Data upload to departmental AWS storage using D-Meta (no command line needed).
-### SCI Cluster
+#### [SCI Cluster](2022/11/sci.md)
 1) Passwordless login using SSH keys.
 2) Data transfer from GHPCC
